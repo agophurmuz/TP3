@@ -13,7 +13,7 @@ public class app {
         int cantSimulations = 10;
 
         for (int s = 0; s < cantSimulations; s++) {
-            int cantRun = 10000;
+            int cantRun = 6000;
             double L = 0.5;
             double v = 0.1;
             double bigParticleInitX = L/2;
